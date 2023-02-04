@@ -7,3 +7,8 @@ So My FOSS heart wanted to make an extension that could do the same job but acro
 Tools, I'll require:
 * Speech-To-Text_conversion API 
 * NLTK Python Library for Highlights.
+
+Already existing solution doing the same work:
+ https://otter.ai/home
+drawbacks:
+Manually need to select the higlights
