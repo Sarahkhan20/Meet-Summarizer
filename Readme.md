@@ -8,7 +8,7 @@ Tools, I'll require:
 * Speech-To-Text_conversion API 
 * NLTK Python Library for Highlights.
 
-Already existing solution doing the same work:
- https://otter.ai/home
-drawbacks:
-Manually need to select the higlights
+Already existing solution doing the same work:  
+ https://otter.ai/home  
+drawbacks:  
+Manually need to select the higlights  
